@@ -77,4 +77,30 @@ Concepts practiced:
 
 ---
 
-More projects coming soon as I continue learning.
+## project 5: Quiz Game
+A command-line quiz game where the user answers multiple-choice questions.
+
+Features:
+- multiple questions
+- answer options
+- score tracking
+- final percentage score
+
+Skills practiced:
+- lists
+- loops
+- user input
+- conditional checking
+- score calculation
+
+---
+
+## Purpose
+
+This repository exists to:
+
+- track my Python learning progress
+- practice programming logic
+- build small projects before moving to larger systems
+My goal is to continue improving my programming skills and eventually build larger real-world software systems.
+
