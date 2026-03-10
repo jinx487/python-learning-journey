@@ -95,6 +95,64 @@ Skills practiced:
 
 ---
 
+## Project 6: Number Guessing Game
+
+A simple game where the computer generates a random number and the player tries to guess it.
+
+Game rules:
+
+• The computer randomly selects a number between 1 and 100  
+• The player enters guesses to find the correct number  
+• The program tells the player if the guess is too high or too low  
+• The game ends when the correct number is guessed  
+
+Features:
+
+• Random number generation  
+• Guess counter to track attempts  
+• Input validation for numeric guesses  
+• Feedback for high or low guesses  
+
+Concepts practiced:
+
+• Random module  
+• While loops  
+• Conditional statements  
+• Input validation  
+• Basic program logic
+
+---
+
+## Project 7: Rock Paper Scissors Game
+
+A simple command-line game where the player competes against the computer.
+
+Game rules:
+
+• The player chooses rock, paper, or scissors  
+• The computer randomly selects one option  
+• Rock beats scissors  
+• Scissors beats paper  
+• Paper beats rock  
+• The game determines whether the player wins, loses, or ties  
+
+Features:
+
+• Computer makes a random choice  
+• Player input validation  
+• Displays player and computer selections  
+• Allows the player to play multiple rounds  
+
+Concepts practiced:
+
+• Random module  
+• While loops  
+• Conditional statements (if / elif / else)  
+• User input handling  
+• Game logic
+
+---
+
 ## Purpose
 
 This repository exists to:
