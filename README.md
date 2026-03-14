@@ -153,6 +153,35 @@ Concepts practiced:
 
 ---
 
+## Project 8: Slot Machine Game
+
+A simple command-line slot machine game where the player places a bet and spins the slot machine to try and win money.
+
+Game rules:
+
+• The player starts with a balance  
+• The player places a bet before each spin  
+• The slot machine randomly generates three symbols  
+• If all three symbols match, the player wins a payout  
+• Different symbols give different payout multipliers  
+
+Features:
+
+• Random slot machine spins using Python's random module  
+• Betting system with balance tracking  
+• Input validation for bet amounts  
+• Different payout multipliers depending on symbol matches  
+• Displays the slot results for each spin  
+
+Concepts practiced:
+
+• Functions  
+• Random module  
+• While loops  
+• Conditional statements  
+• Input validation  
+• Basic game logic
+
 ## Purpose
 
 This repository exists to:
