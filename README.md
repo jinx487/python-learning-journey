@@ -184,22 +184,28 @@ Concepts practiced:
 
 ---
 
-## project 9: Personal budget tracker
-A simple income, expenses and balance tracker.
+## Project 9: Personal Budget Tracker
 
-Features:
-> User input on expenses and income
-> Store entry with a description and amount
-> Save data to a file so it persist
-> View summary: total income, total expenses and balance
+A command-line budget tracker that allows users to manage their income and expenses and view their financial balance.
 
-Concepts practiced:
+### Features:
 
-> Functions
-> Loops
-> Conditional statements
-> File handling
-> List to store multiple entries
+* add multiple income sources
+* add multiple expense entries
+* store descriptions for each transaction
+* calculate total income and expenses
+* display remaining balance
+* save data using JSON
+
+### Skills practiced:
+
+* lists
+* dictionaries
+* loops
+* functions
+* user input
+* file handling (JSON)
+* program flow control
 
 ---
 
