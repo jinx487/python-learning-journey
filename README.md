@@ -182,6 +182,27 @@ Concepts practiced:
 • Input validation  
 • Basic game logic
 
+---
+
+## project 9: Personal budget tracker
+A simple income, expenses and balance tracker.
+
+Features:
+> User input on expenses and income
+> Store entry with a description and amount
+> Save data to a file so it persist
+> View summary: total income, total expenses and balance
+
+Concepts practiced:
+
+> Functions
+> Loops
+> Conditional statements
+> File handling
+> List to store multiple entries
+
+---
+
 ## Purpose
 
 This repository exists to:
