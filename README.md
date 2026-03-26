@@ -209,6 +209,28 @@ A command-line budget tracker that allows users to manage their income and expen
 
 ---
 
+## Project 10: PyQt5 Stopwatch
+
+A graphical stopwatch application built using PyQt5 that allows users to start, stop, and reset time with a real-time display.
+
+### Features:
+
+* start timer with millisecond precision
+* stop/pause the timer
+* reset timer to zero
+* real-time time display (hours, minutes, seconds, milliseconds)
+* simple and styled graphical interface
+
+### Skills practiced:
+
+* GUI development with PyQt5
+* event-driven programming
+* working with timers (`QTimer`)
+* object-oriented programming (classes and methods)
+* layout management (QVBoxLayout, QHBoxLayout)
+* signal and slot connections
+
+
 ## Purpose
 
 This repository exists to:
