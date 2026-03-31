@@ -255,6 +255,31 @@ A graphical weather application built with PyQt5 that fetches real-time weather 
 * event-driven programming
 * object-oriented programming
 
+  ---
+
+## Project 12: To-Do List App
+
+A command-line to-do list application built with Python that allows users to manage tasks by adding, viewing, updating, and deleting them.
+
+### Features:
+
+* add multiple tasks
+* view all tasks with completion status
+* mark tasks as complete
+* delete tasks from the list
+* input validation for user selections
+* save and load tasks using JSON for persistence
+
+### Skills practiced:
+
+* lists and dictionaries
+* loops and conditionals
+* functions and program structure
+* CRUD operations (create, read, update, delete)
+* file handling (JSON)
+* input validation and error handling
+
+
 ## Purpose
 
 This repository exists to:
