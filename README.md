@@ -230,6 +230,30 @@ A graphical stopwatch application built using PyQt5 that allows users to start, 
 * layout management (QVBoxLayout, QHBoxLayout)
 * signal and slot connections
 
+  ---
+
+## Project 11: Weather App (PyQt5 + API)
+
+A graphical weather application built with PyQt5 that fetches real-time weather data from an external API based on user input.
+
+### Features:
+
+* input city name to retrieve weather data
+* fetch real-time data from an external API (OpenWeatherMap)
+* display temperature in Celsius
+* show weather condition using emojis
+* display weather description
+* handle errors (invalid city, connection issues, API errors)
+* styled graphical user interface
+
+### Skills practiced:
+
+* GUI development with PyQt5
+* working with APIs using `requests`
+* JSON data handling
+* error handling and exception management
+* event-driven programming
+* object-oriented programming
 
 ## Purpose
 
